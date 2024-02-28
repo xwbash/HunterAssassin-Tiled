@@ -101,4 +101,3 @@ If any of you have configured it and come up with a good setting, please let me 
 
 ![Texture Data Image](images/image8.png)
 
-I hope this documentation is helpful! Feel free to contribute to the development.
