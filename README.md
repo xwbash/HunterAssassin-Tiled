@@ -4,6 +4,8 @@
 
 *Written by Yiğithan Aydın*
 
+[![Video](images/tileddocumentationthumbnail.png)]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=jKnqop6TtQ8) "Video")    
+
 ## TILED PART
 
 The old system had a very uniform and inflexible working structure. Firstly, within TILED, there is a layer for each drawing location.
