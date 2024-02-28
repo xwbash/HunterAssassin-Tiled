@@ -1,3 +1,5 @@
+<div align="center">
+
 # Documentation Of TILED in Hunter Assassin
 
 *Written by Yiğithan Aydın*
@@ -101,3 +103,4 @@ If any of you have configured it and come up with a good setting, please let me 
 
 ![Texture Data Image](images/image8.png)
 
+</div>
