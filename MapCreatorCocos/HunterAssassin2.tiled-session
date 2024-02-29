@@ -1,0 +1,163 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/HunterAssassinMap-[24x24].tmx",
+    "expandedProjectPaths": [
+        "TileSets",
+        ".",
+        "Maps"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/Maps/HunterAssassinMap-[15x30].tmx": {
+            "scale": 0.59,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 367.79661016949154,
+                "y": 303.3898305084746
+            }
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/Maps/Test.tmx": {
+            "scale": 0.1029,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1477.1622934888237,
+                "y": 3906.7055393586
+            }
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Box.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Decal.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Gate.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Guard.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/TileSets/Walls.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/Decals.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/Gates.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/HunterAssassinMap-[15x30] copy.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2752,
+                "y": 1856
+            }
+        },
+        "Maps/HunterAssassinMap-[15x30] copy.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "Maps/HunterAssassinMap-[15x30].tmx": {
+            "scale": 0.4464,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1017.0250896057347,
+                "y": 1012.5448028673835
+            }
+        },
+        "Maps/HunterAssassinMap-[15x30].tmx#Floor": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/HunterAssassinMap-[24x24].tmx": {
+            "scale": 0.2642,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1120.3633610900831,
+                "y": 1566.994700984103
+            }
+        },
+        "TileSets/Box.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5274,
+            "scaleInEditor": 1
+        },
+        "TileSets/Decal.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5274,
+            "scaleInEditor": 1
+        },
+        "TileSets/Decals.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileSets/Floor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5078,
+            "scaleInEditor": 1
+        },
+        "TileSets/Gate.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileSets/Gates.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileSets/Guard.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "TileSets/Walls.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.362,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "/Users/yigithanaydin/Desktop/MapCreatorCocos/TileSets",
+    "last.imagePath": "/Users/yigithanaydin/Desktop/MapCreatorCocos/Textures/Decal",
+    "map.height": 24,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 24,
+    "openFiles": [
+        "Maps/HunterAssassinMap-[15x30].tmx",
+        "TileSets/Decal.tsx",
+        "TileSets/Walls.tsx",
+        "TileSets/Floor.tsx",
+        "Maps/HunterAssassinMap-[24x24].tmx",
+        "TileSets/Box.tsx",
+        "TileSets/Gate.tsx"
+    ],
+    "project": "HunterAssassin2.tiled-project",
+    "recentFiles": [
+        "Maps/HunterAssassinMap-[15x30].tmx",
+        "TileSets/Decal.tsx",
+        "TileSets/Walls.tsx",
+        "TileSets/Floor.tsx",
+        "TileSets/Gate.tsx",
+        "TileSets/Box.tsx",
+        "Maps/HunterAssassinMap-[24x24].tmx",
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/Maps/HunterAssassinMap-[15x30].tmx",
+        "/Users/yigithanaydin/hunter-assassin-2/AgentProject/Resources/Maps/Test.tmx",
+        "Maps/HunterAssassinMap-[15x30] copy.tmx",
+        "TileSets/Gates.tsx",
+        "TileSets/Decals.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
